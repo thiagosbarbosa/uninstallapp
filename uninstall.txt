@@ -12,3 +12,5 @@ RealVNC.VNCViewer
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer.Host
 Zoom.Zoom
+Google.Chrome
+Mozilla.Firefox
