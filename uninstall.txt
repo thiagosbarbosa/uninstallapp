@@ -5,3 +5,4 @@ Notepad++ (64-bit x64)
 Notepad++
 Telegram Desktop
 Xurume
+Google Chrome
