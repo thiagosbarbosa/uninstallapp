@@ -1,3 +1,4 @@
-Mozilla Firefox (x64 en-US)
-Telegram Desktop
-Google Chrome
+Mozilla.Firefox
+NotepadPlusPlus_7njy0v32s6xk6
+Telegram.TelegramDesktop
+Caphyon.AdvancedInstaller
