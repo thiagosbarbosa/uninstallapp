@@ -1,4 +1,6 @@
-Mozilla.Firefox
-NotepadPlusPlus_7njy0v32s6xk6
-Telegram.TelegramDesktop
-Caphyon.AdvancedInstaller
+7-Zip 23.01 (x64)
+KeePass Password Safe 2.54
+Mozilla Firefox (x64 en-US)
+Notepad++ (64-bit x64)
+Notepad++
+Telegram Desktop
